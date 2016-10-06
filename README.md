@@ -11,6 +11,8 @@ Cada aula terá um arquivo .md explicando o que foi feito no aquivo.
 - Dependece Injection
 - namespace
 
+##Recomendações 
+    - Leia os códigos de cada aula, eles contem comentários relativos a evolução do projeto
 
 ##Dúvidas
 
