@@ -1,19 +1,16 @@
 <?php
 
+require_once "Product.php";
+//Buscando a classe para ser usada
+
 $db = new \PDO("mysql:host=localhost;bdname=projetooo", "root", "");
 //Conecção com o banco de dados
 
-$query = "SELECT * FROM produto";
-//Query selecionando os produtos
+$produto = new Produto($db);
+//conecção está indo como parâmetro para o nosso contrutor do produto
 
-$stmt = $db->prepare($query);
-//Prepara a conecção
+$list = $produto->lista();
 
-$stmt->execute();
-//Executando a query
-
-$list = $stmt->fetchAll(\PDO::FETCH_ASSOC);
-//Tras array associativo
 
 
 var_dump($list);
