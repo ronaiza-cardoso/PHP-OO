@@ -1,8 +1,10 @@
 <?php
 
+require_once "IConeccao.php";
+require_once "Coneccao.php";
 require_once "Produto.php";
 
-$db = new \PDO("mysql:host=localhost;bdname=projetooo", "root", "");
+$db = new Coneccao("mysql:host=localhost;dbname=projetooo", "root", "");
 //Conecção com o banco de dados
 
 $produto = new Produto($db);
