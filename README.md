@@ -8,16 +8,16 @@ Os códigos gerados nessas aulas são do curso [PHP - Avançando com OO](https:/
 eu os escrevi como forma de acompanhar melhor as aulas e testar os códigos, cada aula contém um .md com anotações referentes ao que foi feito no código
 
 ##Índece 
-   - [aula 1](PHP-POO/aula-1)
-   - [aula 2](PHP-POO/aula-2)
-   - [aula 3](PHP-POO/aula-3)
-   - [aula 4](PHP-POO/aula-4)
-   - [aula 5](PHP-POO/aula-5)
-   - [aula 6](PHP-POO/aula-6)
-   - [aula 7](PHP-POO/aula-7)
-   - [aula 8](PHP-POO/aula-8)
-   - [aula 9](PHP-POO/aula-9)
-   - [aula 10](PHP-POO/aula-10)
+   - [aula 1](https://github.com/yesroh/PHP-OO/tree/master/aula-1)
+   - [aula 2](https://github.com/yesroh/PHP-OO/tree/master/aula-2)
+   - [aula 3](https://github.com/yesroh/PHP-OO/tree/master/aula-3)
+   - [aula 4](https://github.com/yesroh/PHP-OO/tree/master/aula-4)
+   - [aula 5](https://github.com/yesroh/PHP-OO/tree/master/aula-5)
+   - [aula 6](https://github.com/yesroh/PHP-OO/tree/master/aula-6)
+   - [aula 7](https://github.com/yesroh/PHP-OO/tree/master/aula-7)
+   - [aula 8](https://github.com/yesroh/PHP-OO/tree/master/aula-8)
+   - [aula 9](https://github.com/yesroh/PHP-OO/tree/master/aula-9)
+   - [aula 10](https://github.com/yesroh/PHP-OO/tree/master/aula-10)
 
 ##Dúvidas
 
