@@ -21,6 +21,9 @@
             
    - com esse comando você já tem um novo container configurado 
    - no ``index.php`` terá um exemplo de como utilizar o serviço
+   
+   O Pimple tem muitos outras funcionalidades que podem ser utilizadas em sua aplicação.
+   É essencial a leitura da documentação para poder desfrutar de todas essas funcionalidades
     
     
 ###Links Úteis
